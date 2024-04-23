@@ -1,1 +1,1 @@
-Examples codes about machine and deep learning provided by IBM AI-Engineering course on Coursera platform
+Codes taken from IBM - AI Engineering Laboratories on Coursera
